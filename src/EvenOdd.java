@@ -28,7 +28,11 @@ public class EvenOdd {
 						
 						System.out.println("Number is odd");
 					}
+			Counter = Counter +1;
+							
 		}
+		
+		System.out.println("Finish");
 	}
 
 }
